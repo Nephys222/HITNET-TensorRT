@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Files
+inference_semantic_seg.py
+inference.py
+engine.py
+buildEngine.py
